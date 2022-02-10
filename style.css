@@ -1,0 +1,61 @@
+/*reset css*/
+ul {
+	list-style-type:  none;
+}
+a {
+	text-decoration: none;
+}
+*{
+	margin:  0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+h1 {
+	border: 4px dotted red;
+	padding-top: 50px;
+	padding-left: 50px;
+	margin-top:  100px;
+}
+li {
+	width: 300px;
+	display: inline-block;
+	margin-bottom: 20px;
+	background-color: yellowgreen;
+	padding-top:  20px;
+	padding-left:  10px;
+}
+.box {
+	height: 200px;
+	width: 200px;
+	background-color: aquamarine;
+	display: inline-block;
+	vertical-align: bottom;
+	margin-right: 30px;
+	padding-top:  30px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+}
+.box1 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	display: inline-block;
+	vertical-align: bottom;
+	text-align: center;
+	/*padding: 10px;*/
+}
+img {
+	width: 100px;
+	vertical-align: bottom;
+	margin-left:  30px;
+}
+
+
+
+
+
+
+
+
+
